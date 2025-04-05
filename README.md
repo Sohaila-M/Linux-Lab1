@@ -14,3 +14,4 @@
    c. The output of the command pwd was /home/user.Write the absolute and relative path for the file mycv
    absolute path: /home/docs/mycv
    relative path: ../docs/mycv
+5. Copy the /etc/passwd file to your home directory making its name is mypasswd. ![image](https://github.com/user-attachments/assets/32020427-5d63-4026-892e-4bb966dc41d8)
