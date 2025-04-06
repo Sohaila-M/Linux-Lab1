@@ -30,11 +30,17 @@
 15. Open mycv file using vi command then: Without
 using arrows state how to:
    a. Move the cursor down one line at time   j
+
    b. Move the cursor up one line at time.  k 
+   
    c. Search for word age  type /age in command mode 
+   
    d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).  5X
+   
    e. Delete the line you are on and line 5. dd then 5G then dd
+   
    f. How to step to the end of line and change to writing mode in one-step.  A in command mode 
+   
 16. st the available shells in your system. ![image](https://github.com/user-attachments/assets/c21a9ebd-59cf-410d-b25e-2d810b7dee45)
 
 
