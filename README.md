@@ -29,12 +29,13 @@
 14. Using vi write your CV in the file mycv. Your CV should include your name, age, school, college, experience, ![11](https://github.com/user-attachments/assets/cd0290bb-fb99-4d86-9e5d-80243d671cc4)
 15. Open mycv file using vi command then: Without
 using arrows state how to:
-a. Move the cursor down one line at time   j
-b. Move the cursor up one line at time.
-c. Search for word age
-d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
-e. Delete the line you are on and line 5.
-f. How to step to the end of line and change to writing mode in one-step.
+   a. Move the cursor down one line at time   j
+   b. Move the cursor up one line at time.  k 
+   c. Search for word age  type /age in command mode 
+   d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).  5X
+   e. Delete the line you are on and line 5. dd then 5G then dd
+   f. How to step to the end of line and change to writing mode in one-step.  A in command mode 
+16. st the available shells in your system. ![image](https://github.com/user-attachments/assets/c21a9ebd-59cf-410d-b25e-2d810b7dee45)
 
 
 
