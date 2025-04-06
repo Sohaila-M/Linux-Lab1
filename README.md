@@ -16,4 +16,6 @@
    relative path: ../docs/mycv
 5. Copy the /etc/passwd file to your home directory making its name is mypasswd. ![image](https://github.com/user-attachments/assets/32020427-5d63-4026-892e-4bb966dc41d8)
 6. Rename this new file to be oldpasswd. ![image](https://github.com/user-attachments/assets/7f5fd1f4-9420-4eeb-89d4-5f932d29d855)
-7. You are in /usr/bin, list four ways to go to your home directory
+7. You are in /usr/bin, list four ways to go to your home directory ![image](https://github.com/user-attachments/assets/3ced9534-4fa2-452c-aa50-0ff0b637e8d1)
+8. List Linux commands in /usr/bin that start with letter w ![image](https://github.com/user-attachments/assets/c5a91601-5742-49bf-bf59-77ee5c6fc060)
+
