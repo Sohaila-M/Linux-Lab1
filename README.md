@@ -26,6 +26,16 @@
    ![image](https://github.com/user-attachments/assets/6b04fe5e-df4b-49fc-b41e-23bbc19a1c15)
 12.Display the man page of the passwd file. ![image](https://github.com/user-attachments/assets/ceeeb32b-b2f6-4c52-99eb-a5feef022652)
 13.Display a list of all the commands that contain the keyword passwd in their man page.![image](https://github.com/user-attachments/assets/4845fe86-6436-4b1d-800f-f7ff082e19a6)
+14. Using vi write your CV in the file mycv. Your CV should include your name, age, school, college, experience, ![11](https://github.com/user-attachments/assets/cd0290bb-fb99-4d86-9e5d-80243d671cc4)
+15. Open mycv file using vi command then: Without
+using arrows state how to:
+a. Move the cursor down one line at time   j
+b. Move the cursor up one line at time.
+c. Search for word age
+d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
+e. Delete the line you are on and line 5.
+f. How to step to the end of line and change to writing mode in one-step.
+
 
 
 
