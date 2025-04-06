@@ -20,6 +20,12 @@
 8. List Linux commands in /usr/bin that start with letter w ![image](https://github.com/user-attachments/assets/c5a91601-5742-49bf-bf59-77ee5c6fc060)
 9.  Display the first 4 lines of /etc/passwd ![image](https://github.com/user-attachments/assets/1d30736c-3c91-409d-bcb4-78b83b1419c2)
 10. Display the last 7 lines of /etc/passwd ![image](https://github.com/user-attachments/assets/f05edb8e-dd8d-48a7-9710-e92b65180169)
+11.Display the man pages of passwd the command and the file sequentially in one command.
+   ![image](https://github.com/user-attachments/assets/ddc9c4c6-47fc-462e-a543-6b8b846ebac1)
+   ![image](https://github.com/user-attachments/assets/0c5971a8-676a-4d2a-ab17-2f80d8e49ecb)
+   ![image](https://github.com/user-attachments/assets/6b04fe5e-df4b-49fc-b41e-23bbc19a1c15)
+
+
 
 
 
