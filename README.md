@@ -24,6 +24,11 @@
    ![image](https://github.com/user-attachments/assets/ddc9c4c6-47fc-462e-a543-6b8b846ebac1)
    ![image](https://github.com/user-attachments/assets/0c5971a8-676a-4d2a-ab17-2f80d8e49ecb)
    ![image](https://github.com/user-attachments/assets/6b04fe5e-df4b-49fc-b41e-23bbc19a1c15)
+12.Display the man page of the passwd file. ![image](https://github.com/user-attachments/assets/ceeeb32b-b2f6-4c52-99eb-a5feef022652)
+13.Display a list of all the commands that contain the keyword passwd in their man page.![image](https://github.com/user-attachments/assets/4845fe86-6436-4b1d-800f-f7ff082e19a6)
+
+
+
 
 
 
